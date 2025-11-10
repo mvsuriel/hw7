@@ -44,5 +44,4 @@ Remember that usually the API service will be run in localhost:8000.
 - [documentation FastAPI](http://localhost:8000/docs)
 - `API_USAGE_GUIDE.md` : contains examples of how to use the API created in this exercise.
 - `api_predictions_notebook.ipynb`: demonstrates how to make predictions using the API within a Jupyter notebook environment.
-- `api_usage_examples.py` : contains code snippets showing how to interact with the API using Python's requests library.
 - `API_Structure_and_GitHub_Guide.ipynb`: contains the structure of the repository and guidelines for using GitHub.
